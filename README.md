@@ -1,5 +1,3 @@
-<p align="left"> <a href="https://twitter.com/notunderctrl" target="blank"><img src="https://img.shields.io/twitter/follow/notunderctrl?logo=twitter&style=for-the-badge" alt="notunderctrl" /></a> </p>
-
 - 🔭 I’m currently working on [Discord.js v14](https://github.com/notunderctrl/discordjs-v14-series)
 
 - 🌱 I’m currently learning **Discord.js**
