@@ -1,6 +1,4 @@
-- 🔭 I’m currently working on [Discord.js v14](https://github.com/notunderctrl/discordjs-v14-series)
-
-- 🌱 I’m currently learning **Discord.js**
+- 🔭 I’m currently working on a [Discord.js series](https://github.com/notunderctrl/discordjs-v14-series)
 
 - 📫 How to reach me **admin@underctrl.io**
 
