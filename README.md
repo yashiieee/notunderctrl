@@ -1,5 +1,3 @@
-- 🔭 I’m currently working on a [Discord.js series](https://github.com/notunderctrl/discordjs-v14-series)
-
 - 📫 How to reach me **admin@underctrl.io**
 
 <h3 align="left">Connect with me:</h3>
