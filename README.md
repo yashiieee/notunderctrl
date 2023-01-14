@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="center">Technologies + tools I have worked with.</h2>
+<h2 align="center">Technologies and tools I have worked with.</h2>
 
 ###
 
@@ -50,12 +50,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=notunderctrl.notunderctrl&"  />
-</div>
-
-###
-
 <br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/notunderctrl/notunderctrl/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
