@@ -9,6 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=notunderctrl" height="150" alt="languages graph"  />
 </div>
 
+<br clear="both">
+
 ###
 
 <h2 align="center">Technologies and tools I have worked with.</h2>
@@ -29,6 +31,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
 </div>
+
+<br clear="both">
+
+###
+
+<h2 align="center">Get in touch with me.</h2>
 
 ###
 
