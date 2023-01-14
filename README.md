@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://i.imgur.com/9mMEQLS.png"  />
-</div>
-
 ###
 
 <h1 align="center">Hey there 👋!<br>My name is Avraj and I'm a Full Stack Developer.</h1>
