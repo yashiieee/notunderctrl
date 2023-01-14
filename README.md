@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.imgur.com/vF8pGlp.png" alt="Under Ctrl Banner" />
+</div>
+
 ###
 
 <h1 align="center">Hey there 👋!<br>My name is Avraj and I'm a Full Stack Developer.</h1>
