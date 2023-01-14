@@ -46,6 +46,12 @@
 
 ###
 
+<div align="center">
+  <a href="https://discord.com/channels/@me/1049343381903515778"> <img src="https://discord.c99.nl/widget/theme-1/1049343381903515778.png" alt="Get in contact with me">
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
