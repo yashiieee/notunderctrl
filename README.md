@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="center">Get in touch with me.</h2>
+<h2 align="center">Connect with me.</h2>
 
 ###
 
