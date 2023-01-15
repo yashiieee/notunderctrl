@@ -38,9 +38,7 @@ I am a full stack web developer with experience in creating dynamic and responsi
 
 ### 📺 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<!-- END YOUTUBE-CARDS -->
+ <!-- BEGIN YOUTUBE-CARDS --> <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@underctrl?sub_confirmation=1)
 
