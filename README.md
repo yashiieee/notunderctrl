@@ -67,3 +67,15 @@ I am a full stack web developer with experience in creating dynamic and responsi
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+<details>
+ <summary><h3>💻 My Coding Journey</h3></summary>
+I got into coding in 2020, when Discord released the verified bot developer badge. I was intrigued by the idea of creating my own custom bot for the platform, so I decided to give it a try. I had no prior experience in coding, but I was determined to learn.
+
+I started with Node.js, and began working on my first discord bot. I encountered many challenges and obstacles along the way, but I persevered and eventually got my bot up and running. However, just as I was about to apply for the verified bot developer badge, Discord removed the option altogether.
+
+Despite this setback, I was still fascinated by the idea of creating my own web applications. I began to explore other areas of web development, and soon discovered the world of front-end web development. I learned HTML, CSS, and JavaScript, and began building my own websites.
+
+As my skills and knowledge grew, I started to delve deeper into web development, and eventually began building full-stack web applications. I found coding to be challenging, but also extremely rewarding. I loved the feeling of creating something from scratch, and watching it come to life.
+
+Today, I continue to work on my coding skills, and I am excited to see where this journey will take me. I am grateful for the opportunity to share my work on Github, and I hope to inspire others to explore the world of coding as well.
