@@ -2,7 +2,7 @@
 
 **`Fullstack Web Developer and Content Creator`**
 
-I am a full stack web developer with experience in creating dynamic and responsive web applications. I am skilled in a variety of technologies such as JavaScript, React, Next JS, Node.js, and Express. In addition to my development skills, I also run a YouTube channel called [Under Ctrl](https://youtube.com/@underctrl) where I create and share content on web development. I am always looking for new and exciting projects to work on and am dedicated to delivering high-quality work.
+I am a full stack developer with experience in creating responsive and dynamic web applications using technologies such as JavaScript, React, Next JS, and Express. I also run a YouTube channel called [Under Ctrl](https://youtube.com/@underctrl) where I create content related to web development and I'm always looking for new and exciting projects to work on!
 
 <p align="left">
       <a href="https://www.youtube.com/@underctrl?sub_confirmation=1">
