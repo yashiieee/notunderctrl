@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Avraj Sahota | Under Ctrl
+# 👨‍💻 Under Ctrl
 
 **`Fullstack Web Developer and Content Creator`**
 
