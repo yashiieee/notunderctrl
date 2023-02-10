@@ -28,12 +28,12 @@ I am a full stack developer with experience in creating responsive and dynamic w
 ### 📺 Latest YouTube Videos
 
  <!-- BEGIN YOUTUBE-CARDS -->
+[![Create a Chat GPT ChatBot in Discord 🤖](https://ytcards.demolab.com/?id=3Wo3Q9Ljljk&title=Create+a+Chat+GPT+ChatBot+in+Discord+%F0%9F%A4%96&lang=en&timestamp=1676053281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Create a Chat GPT ChatBot in Discord 🤖")](https://www.youtube.com/watch?v=3Wo3Q9Ljljk)
 [![Rank/Level Command (Discord.js v14)](https://ytcards.demolab.com/?id=dghzcDjdDwk&title=Rank%2FLevel+Command+%28Discord.js+v14%29&lang=en&timestamp=1675695634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Rank/Level Command (Discord.js v14)")](https://www.youtube.com/watch?v=dghzcDjdDwk)
 [![Leveling System (Discord.js v14)](https://ytcards.demolab.com/?id=QeNFkTUqwIw&title=Leveling+System+%28Discord.js+v14%29&lang=en&timestamp=1675436425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Leveling System (Discord.js v14)")](https://www.youtube.com/watch?v=QeNFkTUqwIw)
 [![Connecting to a Database (Discord.js v14)](https://ytcards.demolab.com/?id=edeNqzKvj0g&title=Connecting+to+a+Database+%28Discord.js+v14%29&lang=en&timestamp=1675090833&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Connecting to a Database (Discord.js v14)")](https://www.youtube.com/watch?v=edeNqzKvj0g)
 [![Throwing and Handling Errors | JavaScript for Beginners #12](https://ytcards.demolab.com/?id=DmjGZgjp_Z8&title=Throwing+and+Handling+Errors+%7C+JavaScript+for+Beginners+%2312&lang=en&timestamp=1674831609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Throwing and Handling Errors | JavaScript for Beginners #12")](https://www.youtube.com/watch?v=DmjGZgjp_Z8)
 [![How to share your localhost!](https://ytcards.demolab.com/?id=RLYqvlOw1mE&title=How+to+share+your+localhost%21&lang=en&timestamp=1674658816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "How to share your localhost!")](https://www.youtube.com/watch?v=RLYqvlOw1mE)
-[![Timeout Slash Command (Discord.js v14)](https://ytcards.demolab.com/?id=bSVFeuWLyUI&title=Timeout+Slash+Command+%28Discord.js+v14%29&lang=en&timestamp=1674486021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Timeout Slash Command (Discord.js v14)")](https://www.youtube.com/watch?v=bSVFeuWLyUI)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@underctrl?sub_confirmation=1)
