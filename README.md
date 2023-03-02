@@ -28,12 +28,12 @@ I am a full stack developer with experience in creating responsive and dynamic w
 ### 📺 Latest YouTube Videos
 
  <!-- BEGIN YOUTUBE-CARDS -->
+[![Balance Command (Discord.js v14)](https://ytcards.demolab.com/?id=1aWUFhNC4Jg&title=Balance+Command+%28Discord.js+v14%29&lang=en&timestamp=1677785205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Balance Command (Discord.js v14)")](https://www.youtube.com/watch?v=1aWUFhNC4Jg)
 [![Auto-Role Bot (Discord.js v14)](https://ytcards.demolab.com/?id=VgF_v_IpI_I&title=Auto-Role+Bot+%28Discord.js+v14%29&lang=en&timestamp=1677172711&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Auto-Role Bot (Discord.js v14)")](https://www.youtube.com/watch?v=VgF_v_IpI_I)
 [![Daily Command (Discord.js v14) - Read pinned comment](https://ytcards.demolab.com/?id=VhY3kIqLpNo&title=Daily+Command+%28Discord.js+v14%29+-+Read+pinned+comment&lang=en&timestamp=1676993630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Daily Command (Discord.js v14) - Read pinned comment")](https://www.youtube.com/watch?v=VhY3kIqLpNo)
 [![Functions | JavaScript for Beginners #15](https://ytcards.demolab.com/?id=YLPfWwHvPzM&title=Functions+%7C+JavaScript+for+Beginners+%2315&lang=en&timestamp=1676732423&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Functions | JavaScript for Beginners #15")](https://www.youtube.com/watch?v=YLPfWwHvPzM)
 [![Dates | JavaScript for Beginners #14](https://ytcards.demolab.com/?id=7Sg45r6MC7w&title=Dates+%7C+JavaScript+for+Beginners+%2314&lang=en&timestamp=1676559604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Dates | JavaScript for Beginners #14")](https://www.youtube.com/watch?v=7Sg45r6MC7w)
 [![Math Functions | JavaScript for Beginners #13](https://ytcards.demolab.com/?id=9tlvUFmb8ec&title=Math+Functions+%7C+JavaScript+for+Beginners+%2313&lang=en&timestamp=1676386806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Math Functions | JavaScript for Beginners #13")](https://www.youtube.com/watch?v=9tlvUFmb8ec)
-[![Create a Chat GPT ChatBot in Discord 🤖](https://ytcards.demolab.com/?id=3Wo3Q9Ljljk&title=Create+a+Chat+GPT+ChatBot+in+Discord+%F0%9F%A4%96&lang=en&timestamp=1676053281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Create a Chat GPT ChatBot in Discord 🤖")](https://www.youtube.com/watch?v=3Wo3Q9Ljljk)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@underctrl?sub_confirmation=1)
